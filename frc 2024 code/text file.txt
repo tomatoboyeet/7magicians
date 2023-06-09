@@ -1,0 +1,3 @@
+hello whoever is reading this.
+welcome to the 7 magicians repository for code and cad.
+to help contribute, please send a pull request. then, a captain will check the request and accept/deny it.
